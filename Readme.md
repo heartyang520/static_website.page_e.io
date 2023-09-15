@@ -1,2 +1,2 @@
 # 点击访问
-https://github.com/heartyang520/static_website.page_e.io
+https://heartyang520.github.io/static_website.page_e.io
